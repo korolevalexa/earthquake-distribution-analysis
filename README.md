@@ -25,8 +25,7 @@ The project studies how the distribution of earthquakes changes over time using 
     │   ├── task3_correlation_function.png
     │   └── ...
     │
-    └── presentation/
-        └── earthquake_analysis_presentation.pptx
+    └── earthquake_analysis_presentation.pptx
 
 ## Overview
 
